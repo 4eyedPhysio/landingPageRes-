@@ -98,13 +98,16 @@ input {
 
  input[type="text"] {
   text-indent: 10px;
+     width: 100%;
 } 
 input[type="date"] {
     text-indent: 5px;
     opacity: .6;
+    width: 100%;
 }
 input[type="password"] {
     text-indent: 10px ;
+    width: 100%;
 }
 input:focus {
     
